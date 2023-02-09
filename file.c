@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main(){
 
+ int x;
+ printf("this is git practice");
+ scanf("%d",&x);
+ printf("enter the value of x : "); 
+
     printf("this is git practice");
     int num;
     printf("Sam's changes making a scanf enter a number : ");
@@ -11,4 +16,5 @@ int main(){
 
 
     return 0;
+
 }
